@@ -71,3 +71,21 @@ nav ul li a {
     color: red;
     font-family: 400;
 }
+
+
+#building {
+    display: flex;
+    width: 100%;
+    max-width: 160vh;
+    margin: auto;
+}
+
+.col {
+    padding: 40px 50px;
+    color: #fff;
+    margin-top: -60px;
+}
+
+.b-red {
+    background-color: rgb(204, 6, 6);
+}
