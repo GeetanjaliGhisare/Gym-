@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'oswald';
+}
+
+body p,
+button,
+body a,
+body input {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#mobile {
+    display: none;
+    align-items: center;
+}
+
+.section-m1 {
+    margin: 80px auto;
+}
+
+.section-p1 {
+    padding: 0 130px;
+}
+
+#head {
+    background-image: url(img/carousel-2.jpg);
+    height: 120vh;
+    background-size: auto;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+#head .logo h1 {
+    padding: 40px 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+nav ul li {
+    list-style: none;
+    padding: 27px 29px;
+    font-weight: 500;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.red {
+    color: red;
+    font-family: 400;
+}
