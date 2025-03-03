@@ -137,3 +137,13 @@ nav ul li a {
     height: 70px;
     width: auto;
 }
+
+.exp-vectors {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.exp-content {
+    padding: 30px 30px 0px 30px;
+}
