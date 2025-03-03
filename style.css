@@ -98,3 +98,12 @@ nav ul li a {
     padding-bottom: 30px;
     margin-left: auto;
 }
+
+
+.b-red p,
+.b-red h1,
+.b-red button {
+    text-align: right;
+    margin-left: auto;
+
+}
