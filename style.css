@@ -88,3 +88,13 @@ nav ul li a {
 .b-red {
     background-color: rgb(204, 6, 6);
 }
+
+.b-black {
+    background-color: black;
+}
+
+.col h1 {
+    font-size: 35px;
+    padding-bottom: 30px;
+    margin-left: auto;
+}
