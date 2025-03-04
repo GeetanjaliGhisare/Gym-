@@ -147,3 +147,14 @@ nav ul li a {
 .exp-content {
     padding: 30px 30px 0px 30px;
 }
+
+.exp-content h1 {
+    font-size: 45px;
+    padding-bottom: 15px;
+}
+
+.exp-content p {
+    font-weight: 300;
+    padding-bottom: 40px;
+    font-size: 13px;
+}
