@@ -216,3 +216,13 @@ nav ul li a {
 .c-black {
     background-color: black;
 }
+
+#choose {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 160vh;
+    margin: 70px auto;
+}
+
