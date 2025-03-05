@@ -192,3 +192,13 @@ nav ul li a {
     padding: 50px 20px;
     width: 750px;
 }
+
+
+.col1-content {
+    padding-left: 30px;
+}
+
+.col1-content p {
+    font-size: 14px;
+    font-weight: 300;
+}
