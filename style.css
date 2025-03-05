@@ -209,3 +209,10 @@ nav ul li a {
     font-size: 24px;
 }
 
+c-red {
+    background-color: rgb(218, 4, 4);
+}
+
+.c-black {
+    background-color: black;
+}
