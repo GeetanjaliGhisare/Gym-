@@ -235,3 +235,9 @@ nav ul li a {
     padding-bottom: 40px;
 }
 
+
+.choose-opt {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
