@@ -255,3 +255,8 @@ nav ul li a {
     /* Align content inside opt to the left */
     display: flex;
 }
+
+.opt-content {
+    margin-top: 40px;
+    padding-left: 30px;
+}
