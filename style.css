@@ -249,3 +249,9 @@ nav ul li a {
     padding-bottom: 40px;
 }
 
+.opt {
+    flex: 1 1 calc(50% - 20px);
+    text-align: left;
+    /* Align content inside opt to the left */
+    display: flex;
+}
