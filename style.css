@@ -265,3 +265,12 @@ nav ul li a {
     position: relative;
 
 }
+
+.choose-vect img {
+    width: 70px;
+    position: absolute;
+    left: -55px;
+    top: 5px;
+    background-color: rgb(241, 24, 24);
+    padding: 10px;
+}
