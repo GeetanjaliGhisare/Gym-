@@ -306,3 +306,9 @@ nav ul li a {
     border: 1px solid transparent;
     outline: none;
 }
+
+#newsletter .form {
+    display: flex;
+    width: 24%;
+    margin-top: 10px;
+}
