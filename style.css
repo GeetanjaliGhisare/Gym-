@@ -292,3 +292,8 @@ nav ul li a {
     font-size: 16px;
     font-weight: 300;
 }
+
+#newsletter h1,
+#newsletter p {
+    padding-bottom: 15px;
+}
