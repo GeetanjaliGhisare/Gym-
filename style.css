@@ -312,3 +312,11 @@ nav ul li a {
     width: 24%;
     margin-top: 10px;
 }
+
+#newsletter button {
+    background-color: rgb(250, 37, 37);
+    color: #fff;
+    white-space: nowrap;
+    border: none;
+    width: 50%;
+}
