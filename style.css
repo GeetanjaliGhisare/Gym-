@@ -272,3 +272,14 @@ nav ul li a {
     background-color: rgb(241, 24, 24);
     padding: 10px;
 }
+
+
+#newsletter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 70px;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/bg.jpg);
+}
