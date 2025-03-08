@@ -273,7 +273,6 @@ nav ul li a {
     padding: 10px;
 }
 
-
 #newsletter {
     display: flex;
     flex-direction: column;
@@ -305,6 +304,20 @@ nav ul li a {
     width: 100%;
     border: 1px solid transparent;
     outline: none;
+}
+
+#newsletter .form {
+    display: flex;
+    width: 24%;
+    margin-top: 10px;
+}
+
+#newsletter button {
+    background-color: rgb(250, 37, 37);
+    color: #fff;
+    white-space: nowrap;
+    border: none;
+    width: 50%;
 }
 
 #newsletter .form {
