@@ -283,3 +283,7 @@ nav ul li a {
     color: #fff;
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/bg.jpg);
 }
+
+#newsletter h1 {
+    font-size: 42px;
+}
