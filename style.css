@@ -342,3 +342,8 @@ nav ul li a {
     align-items: center;
 
 }
+
+#schedule h1 {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
