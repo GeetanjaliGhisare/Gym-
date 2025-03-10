@@ -347,3 +347,8 @@ nav ul li a {
     font-size: 35px;
     margin-bottom: 20px;
 }
+
+#schedule h2 {
+    font-size: 22px;
+    color: rgb(253, 76, 76);
+}
